@@ -1,0 +1,6 @@
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\IIntegerList\bin\Debug\IIntegerList.exe.config
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\IIntegerList\obj\Debug\IIntegerList.csprojResolveAssemblyReference.cache
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\IIntegerList\bin\Debug\IIntegerList.exe
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\IIntegerList\bin\Debug\IIntegerList.pdb
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\IIntegerList\obj\Debug\IIntegerList.exe
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\IIntegerList\obj\Debug\IIntegerList.pdb

@@ -1,0 +1,6 @@
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\Zad2\bin\Debug\Zad2.exe.config
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\Zad2\bin\Debug\Zad2.exe
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\Zad2\bin\Debug\Zad2.pdb
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\Zad2\obj\Debug\Zad2.exe
+c:\users\katarina\documents\visual studio 2015\Projects\RAUPJC-DZ1\Zad2\obj\Debug\Zad2.pdb
