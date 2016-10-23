@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
-using System.Collections.Generic;
+using System.Linq;
 using Zad2;
 
 namespace zad4Game
@@ -56,8 +56,8 @@ namespace zad4Game
         /// </ summary >
         private IGenericList<Sprite> SpritesForDrawList = new GenericList<Sprite>();
 
-        public List<Wall> Walls { get; set; }
-        public List<Wall> Goals { get; set; }
+        public System.Collections.Generic.List<Wall> Walls { get; set; }
+        public System.Collections.Generic.List<Wall> Goals { get; set; }
 
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
@@ -98,7 +98,7 @@ namespace zad4Game
             SpritesForDrawList.Add(PaddleTop);
             SpritesForDrawList.Add(Ball);
 
-            Walls = new List<Wall>()
+            Walls = new System.Collections.Generic.List<Wall>()
             {
             // try with 100 for default wall size !
             new Wall ( - GameConstants.WallDefaultSize  ,0 ,
@@ -108,7 +108,7 @@ namespace zad4Game
             };
 
 
-            Goals = new List<Wall>()
+            Goals = new System.Collections.Generic.List<Wall>()
             {
             new Wall (0 , screenBounds.Height , screenBounds.Width ,GameConstants.WallDefaultSize ) ,
             new Wall ( screenBounds.Top , - GameConstants.WallDefaultSize ,
